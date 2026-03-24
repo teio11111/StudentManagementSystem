@@ -82,21 +82,13 @@
 
 ## 项目结构
 
-```bash
+```text
 StudentManagementSystem/
-│
-├── main.cpp                # 主程序（核心逻辑）
+├── main.cpp
 ├── sql/
-│   └── init.sql           # 数据库初始化脚本
-├── README.md              # 项目说明文档
-├── .gitignore
+│   └── init.sql
+├── screenshots/
+│   ├── menu.png
+│   └── query.png
+├── README.md
 └── StudentManagementSystem.sln
-
-## 运行截图
-
-#### 主菜单
-![menu](./screenshots/menu.png)
-
-#### 查询结果
-![query](./screenshots/query.png)
-
