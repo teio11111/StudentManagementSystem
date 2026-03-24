@@ -91,3 +91,12 @@ StudentManagementSystem/
 ├── README.md              # 项目说明文档
 ├── .gitignore
 └── StudentManagementSystem.sln
+
+## 运行截图
+
+#### 主菜单
+![menu](./screenshots/menu.png)
+
+#### 查询结果
+![query](./screenshots/query.png)
+
