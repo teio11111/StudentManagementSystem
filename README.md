@@ -80,6 +80,28 @@
 
 ---
 
+## 📷 运行截图
+
+#### 主菜单
+![menu](./screenshots/menu.png)
+
+#### 查询结果
+![query](./screenshots/query.png)
+
+---
+
+## ✨ 功能
+
+- 添加学生信息
+- 查询学生信息
+- 修改学生信息
+- 删除学生信息（带确认）
+- 输入合法性校验
+- 控制台表格对齐输出
+- 异常处理防崩溃
+
+---
+
 ## 项目结构
 
 ```text
@@ -92,3 +114,4 @@ StudentManagementSystem/
 │   └── query.png
 ├── README.md
 └── StudentManagementSystem.sln
+
